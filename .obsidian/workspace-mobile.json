@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "5738173100e4d95c",
+    "type": "split",
+    "children": [
+      {
+        "id": "334cca624ec23132",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c6d690c74003e71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practise of Prayer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Practise of Prayer"
+            }
+          },
+          {
+            "id": "bbae5699af5ecba6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Following Jesus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Following Jesus"
+            }
+          },
+          {
+            "id": "b16056bd9be7d0c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spiritual Formation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spiritual Formation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3ad56fd6013491b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "578210adce0e69a1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "11a817e725fe63dd",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "5850f9d372be4b3b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "6d4a1c7e2f542ac7",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "a7e8bc10d13c832f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "401071c92c28a327",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "61b580fffba1d3b0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": true,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "340b1021d8280679",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "2024-11-19 small group.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "572746e7798188c5",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "2024-11-19 small group.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "45c9f8319f25b06f",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "remotely-save:Remotely Save": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "1c6d690c74003e71",
+  "lastOpenFiles": [
+    "Spiritual Formation.md",
+    "Following Jesus.md",
+    "Formation audit.md",
+    "Who am I becoming?.md",
+    "Practise of Prayer.md",
+    "Thursday Prayer.md",
+    "Wednesday Prayer.md",
+    "Goals and Priorities.md",
+    "Thoughts.md",
+    "Practicing the way.md",
+    "Be, become, do.md",
+    "On Leadership.md",
+    "creativity in engineering.md",
+    "Forms.md",
+    "Mini Christ.md",
+    "Year Review.md",
+    "2024-11-19 small group.md",
+    "sexual purity.md",
+    "Consent.md",
+    "Important tasks.md",
+    "Untitled.canvas",
+    "Monday 24th April.md"
+  ]
+}
