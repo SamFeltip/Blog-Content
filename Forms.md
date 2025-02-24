@@ -1,3 +1,7 @@
+---
+tags:
+  - technology/programming
+---
 
 
 How can I use table storage for forms?

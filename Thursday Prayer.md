@@ -1,7 +1,5 @@
 ---
-tags:
-  - practising-the-way
-  - prayer
+tags: [practising-the-way, prayer]
 ---
 
 # Thursday Prayer

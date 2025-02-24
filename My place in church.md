@@ -1,4 +1,9 @@
-thoughwant to build a strong base of authentic Christians, focused on living out and believing the bible, and the dogma of the church.
+---
+tags:
+  - christianity
+---
+
+want to build a strong base of authentic Christians, focused on living out and believing the bible, and the dogma of the church.
 
 I want to build that up so that I can push against it, test its boundaries and its limits, and better understand how it works.
 

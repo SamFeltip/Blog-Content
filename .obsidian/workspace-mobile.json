@@ -8,46 +8,40 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1c6d690c74003e71",
+            "id": "e5bd8885f24e94e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practise of Prayer.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Practise of Prayer"
-            }
-          },
+              "title": "Untitled"
+            },
+            "group": "5a5a8f8ab1c58033"
+          }
+        ]
+      },
+      {
+        "id": "79df0c6a0ee27629",
+        "type": "tabs",
+        "children": [
           {
-            "id": "bbae5699af5ecba6",
+            "id": "984e13cdb0097624",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Following Jesus.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Following Jesus"
-            }
-          },
-          {
-            "id": "b16056bd9be7d0c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spiritual Formation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Spiritual Formation"
-            }
+              "title": "Untitled"
+            },
+            "group": "5a5a8f8ab1c58033"
           }
         ]
       }
@@ -64,7 +58,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": true
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -94,7 +89,9 @@
           "type": "tag",
           "state": {
             "sortOrder": "frequency",
-            "useHierarchy": true
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-tags",
           "title": "Tags"
@@ -196,29 +193,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c6d690c74003e71",
+  "active": "e5bd8885f24e94e4",
   "lastOpenFiles": [
-    "Spiritual Formation.md",
-    "Following Jesus.md",
-    "Formation audit.md",
-    "Who am I becoming?.md",
-    "Practise of Prayer.md",
+    "UNIX Philosophy.md",
     "Thursday Prayer.md",
-    "Wednesday Prayer.md",
-    "Goals and Priorities.md",
-    "Thoughts.md",
-    "Practicing the way.md",
-    "Be, become, do.md",
-    "On Leadership.md",
+    "Tailwind safelists and the quest for typesafe styles.md",
+    "Atomic Habits.md",
+    "Astro Pagefind.md",
+    "Music.md",
+    "Engineer - know thy self!.md",
     "creativity in engineering.md",
     "Forms.md",
-    "Mini Christ.md",
-    "Year Review.md",
-    "2024-11-19 small group.md",
+    "How should we organise?.md",
+    "the iPhone 16e marks a big step in iPhone history.md",
+    "2025 Summer Holiday.md",
+    "Be, become, do.md",
+    "marriage.md",
     "sexual purity.md",
-    "Consent.md",
-    "Important tasks.md",
-    "Untitled.canvas",
-    "Monday 24th April.md"
+    "Formation Audit.md",
+    "Pirating music.md",
+    "Untitled.md",
+    "My place in church.md",
+    "2025.md",
+    "RSS feed app.md",
+    "My morning routine.md",
+    "Meeting God in Pain and Suffering.md",
+    "Practicing the way.md",
+    "On Leadership.md",
+    "Practise of Prayer.md",
+    "Untitled.canvas"
   ]
 }

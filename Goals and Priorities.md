@@ -1,6 +1,6 @@
 ---
 aliases:
-  - goal
+  - "#goal"
 ---
 
 - Technical excellence

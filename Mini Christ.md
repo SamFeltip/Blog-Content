@@ -1,7 +1,10 @@
-## About role models
+# Mini Christ
+
+## About Role Models
+
 The idea of cancelling people enforces the idea we’re supposed to have people in our lives we base ourselves on, that people are “pure” (mini-Christ) and we can look to them for guidance.
 
-### Mike pilovatchi
+### Mike Pilovatchi
 
 I think it’s more appropriate to have a broad range of people in our community as peers.
 

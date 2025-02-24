@@ -2,5 +2,7 @@
   "remotely-save",
   "obsidian-linter",
   "obsidian-git",
-  "dataview"
+  "dataview",
+  "tag-wrangler",
+  "easy-typing-obsidian"
 ]

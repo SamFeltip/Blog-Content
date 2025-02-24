@@ -1,8 +1,5 @@
 ---
-tags:
-  - practising-the-way
-  - christianity
-  - small-group
+tags: [christianity, practising-the-way, small-group]
 video: https://youtu.be/HqWv92rqbQQ?si=ZdQMdZWPHkuMqUgw
 date: 2025-01-28
 ---
@@ -35,9 +32,10 @@ Happen to us
 - Time
 - Experiences
 
-Very similar to [[atomic habits]]!
+Very similar to [[Atomic Habits]]!
 
 [[Who am I becoming?]]
+
 ### Discussion
 
 01 - What habits do you keep in your daily and weekly life? How might they be shaping you?
@@ -49,5 +47,5 @@ Very similar to [[atomic habits]]!
 04 - Did God reveal anything new to you in this session that you want to say more about?
 
 ## Formation Audit
-[[Formation audit]]
 
+Write out the [[Formation Audit]] And reflect on what is forming us.
