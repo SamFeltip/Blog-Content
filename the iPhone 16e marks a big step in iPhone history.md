@@ -1,9 +1,10 @@
 ---
-tags:
-  - article
-  - technology
+tags: [article, technology]
 ---
-In the beginning, there was iPhone. No SE, no S model,no pro or plus or max, just iPhone. Steve Jobs never shipped a “budget” iPhone - it wasn’t until his passing that we saw the “premium” 5s and the “unapologetically plastic” iPhone 5c. 
+
+# The iPhone 16e Marks a Big step in iPhone History
+
+In the beginning, there was iPhone. No SE, no S model,no pro or plus or max, just iPhone. Steve Jobs never shipped a “budget” iPhone - it wasn’t until his passing that we saw the “premium” 5s and the “unapologetically plastic” iPhone 5c.
 
 I often think it’s important to keep in mind the people in our lives who don’t _orbit_ technology. My mum bought a baseline iPhone 5c a year after it came out. with 8GB of storage! And she didn’t think that would be a problem. My gran didn’t loose her home button until her iPhone 6s (a handmedown from another family member) died in 2024. In 2025 my partner still carries an iPhone 11 in its retina LCD, thick bezel, ultra wide, lightning port glory. All these family members are THE target audience for iPhones; they are not the edge case, they are explicitly the target of modern tech.
 
@@ -17,4 +18,4 @@ Second hand buyers are a tricky bunch. They’re picky, cheap, and free to explo
 
 Apple has an unusual relationship with the midrange market. They’ve flirted with it with the SE and XR, ultimately landing with a “premium, pro, and premium pro” attitude. The iPhone 16e markets a significant turn: Apple is ready to compete not only with last years phone, but last years _second hand_ phone.
 
-When we approach the 16e, we much first consider its target audience. Who’s buying this? If we use our previous marker of second hand buyers, we can safely say these people are sticking with their X, or their 11. They probably bought that phone second hand, and they’re probably not bothered 
+When we approach the 16e, we much first consider its target audience. Who’s buying this? If we use our previous marker of second hand buyers, we can safely say these people are sticking with their X, or their 11. They probably bought that phone second hand, and they’re probably not bothered

@@ -1,12 +1,6 @@
 ---
-tags:
-  - christianity
-  - practising-the-way
-  - christianity/practising-the-way
-  - article
-  - formation-audit
-aliases:
-  - "#formation-audit"
+tags: [christianity, christianity/practising-the-way, formation-audit, practising-the-way]
+aliases: ["#formation-audit"]
 ---
 
 # Formation Audit

@@ -1,8 +1,5 @@
 ---
-tags:
-  - christianity
-  - small-group
-  - practising-the-way
+tags: [christianity, practising-the-way, small-group]
 date: 2025-01-21
 ---
 

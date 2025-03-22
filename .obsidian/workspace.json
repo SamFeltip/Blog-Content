@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pirating music.md",
+                "file": "the iPhone 16e marks a big step in iPhone history.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pirating music"
+              "title": "the iPhone 16e marks a big step in iPhone history"
             }
           }
         ],
@@ -163,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9256965f11de9344",
@@ -180,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year Review.md",
+                "file": "the iPhone 16e marks a big step in iPhone history.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Year Review"
+              "title": "Backlinks for the iPhone 16e marks a big step in iPhone history"
             }
           },
           {
@@ -226,18 +225,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "the iPhone 16e marks a big step in iPhone history.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of the iPhone 16e marks a big step in iPhone history"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,10 +255,12 @@
   },
   "active": "dfbaa03e17ee0f68",
   "lastOpenFiles": [
+    "Pirating music.md",
+    "marriage.md",
+    "AI for education.md",
     "How should we organise?.md",
     "Engineer - know thy self!.md",
     "Tailwind safelists and the quest for typesafe styles.md",
-    "Pirating music.md",
     "Music.md",
     "2025 Summer Holiday.md",
     "Thursday Prayer.md",

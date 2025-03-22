@@ -1,6 +1,5 @@
 ---
-tags:
-  - technology
+tags: [article, technology]
 ---
 
 # RSS Feed App
@@ -10,4 +9,4 @@ tags:
 - Wikipedia featured articles
 - BBC news
 - SubStack
-- 
+-

@@ -9,6 +9,7 @@ Matthew 26:36 #bible-verse
 Not a religious formula
 
 Slowing down can bring emotional pain to the surface
+
 ## Ways the World Deals with Emotional Pain
 
 - Denial (spiritual bypassing)
@@ -36,11 +37,14 @@ Plain is our pathway to transformation if we meet Jesus in our pain
 - which of the three responses to emotional pain are you Moses inclined toward: demy defat h or drug?
 - What could it look like for you to reorient yourself to the pain in you life as an opportunity to be formed by God?
 
-## Spiritual exercise: noticing and naming your emotion
+## Spiritual Exercise: Noticing and Naming Your Emotion
 
 Notice your emotion
+
 Name then
+
 Feel them
+
 Bring them to god
 
 [[Dan Siegel]] has a lot to say about emotion.

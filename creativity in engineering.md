@@ -1,8 +1,5 @@
 ---
-tags:
-  - technology
-  - technology/engineering
-  - engineering
+tags: [engineering, technology, technology/engineering]
 ---
 
 # Creativity in Engineering

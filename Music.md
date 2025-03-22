@@ -1,8 +1,6 @@
 ---
-tags:
-  - music
-aliases:
-  - "#music"
+tags: [music]
+aliases: ["#music"]
 ---
 
 # Music

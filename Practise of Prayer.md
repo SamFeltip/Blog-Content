@@ -1,7 +1,5 @@
 ---
-tags:
-  - christianity
-  - goal
+tags: [christianity, goal]
 ---
 
 # Practise of Prayer
@@ -14,6 +12,7 @@ tags:
 - Open your heart to God in prayer
 
 ## Prayer
+
 ```dataview
 LIST FROM #prayer AND #practising-the-way 
 ```

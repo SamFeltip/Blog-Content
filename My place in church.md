@@ -1,7 +1,8 @@
 ---
-tags:
-  - christianity
+tags: [article, christianity]
 ---
+
+# My place in Church
 
 want to build a strong base of authentic Christians, focused on living out and believing the bible, and the dogma of the church.
 
@@ -16,5 +17,7 @@ I think it’s possible people don’t believe that
 ---
 
 The Gentile at the table
+
 Gargoyles at the foot of a cathedral
+
 Disciples on the sideline

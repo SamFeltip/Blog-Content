@@ -1,8 +1,11 @@
 ---
-aliases:
-  - "#goal"
+aliases: ["#goal"]
 ---
 
+# Goals and Priorities
+
 - Technical excellence
-- In person community
-- Family
+	- Own your seat at the table
+- Build an in person community
+- Work together with Eve on something
+	- [[marriage#Build a Life together]]

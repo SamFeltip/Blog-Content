@@ -1,7 +1,5 @@
 ---
-tags:
-  - music
-  - technology
+tags: [article, music, technology]
 ---
 
 # Pirating Music
@@ -37,6 +35,9 @@ scp -r ./Youtube samfelton@192.168.1.69:~/music
 ```bash
 # copy to nextcloud
 sudo cp -r ./Youtube /mnt/ncdata/admin/files/Music/iPod\ music\ 2025
+
+# files seem to have moved
+sudo cp -r ~/documents/DanTarrantBirthday /var/lib/docker/volumes/nextcloud_aio_nextcloud_data/_data/admin/files/Documents/GuestRoad/
 ```
 
 ```bash

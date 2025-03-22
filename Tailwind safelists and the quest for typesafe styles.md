@@ -1,5 +1,5 @@
 ---
-tags: [article]
+tags: [article, frontend, style-systems, tailwind, technology/programming]
 ---
 
 # Tailwind Safelists and the quest for Typesafe Styles
