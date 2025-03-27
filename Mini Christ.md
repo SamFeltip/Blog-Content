@@ -8,6 +8,6 @@ The idea of cancelling people enforces the idea we’re supposed to have people 
 
 I think it’s more appropriate to have a broad range of people in our community as peers.
 
-I can understand why someone wouldn’t want to hear anything Mike P has said, given his past. (If someone was concerned with [[sexual purity]])
+I can understand why someone wouldn’t want to hear anything Mike P has said, given his past. (If someone was concerned with [[purity]])
 
 I wouldn’t go to Pilovatchi for guidance on sex or abstinence. But I would go to him for advice on prophecy, the bible, the life of Jesus etc.

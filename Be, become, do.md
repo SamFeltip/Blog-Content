@@ -1,8 +1,14 @@
-### Apprenticeship with Jesus
+---
+tags: [christianity/practising-the-way]
+---
 
-- be with Jesus 
-- become like Jesus 
-- Do things like Jesus 
+# Be, Become, Do
+
+## Apprenticeship with Jesus
+
+- be with Jesus
+- become like Jesus
+- Do things like Jesus
 
 [[Jesus talks about Abiding]]
 

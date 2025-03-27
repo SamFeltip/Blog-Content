@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the iPhone 16e marks a big step in iPhone history.md",
+                "file": "Publishing notes as a blog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "the iPhone 16e marks a big step in iPhone history"
+              "title": "Publishing notes as a blog"
             }
           }
         ],
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the iPhone 16e marks a big step in iPhone history.md",
+                "file": "Publishing notes as a blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for the iPhone 16e marks a big step in iPhone history"
+              "title": "Backlinks for Publishing notes as a blog"
             }
           },
           {
@@ -225,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the iPhone 16e marks a big step in iPhone history.md",
+                "file": "Publishing notes as a blog.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of the iPhone 16e marks a big step in iPhone history"
+              "title": "Outline of Publishing notes as a blog"
             }
           }
         ],
@@ -255,6 +255,11 @@
   },
   "active": "dfbaa03e17ee0f68",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Sola Scriptura.md",
+    "Build an in person community.md",
+    "Remote Working.md",
+    "the iPhone 16e marks a big step in iPhone history.md",
     "Pirating music.md",
     "marriage.md",
     "AI for education.md",
@@ -276,11 +281,6 @@
     "practising-the-way.md",
     "Following Jesus.md",
     "creativity in engineering.md",
-    "Consent.md",
-    "2025.md",
-    "Forms.md",
-    "Thoughts.md",
-    "Important tasks.md",
     "guest-list 1.csv",
     "guest-list.csv"
   ]

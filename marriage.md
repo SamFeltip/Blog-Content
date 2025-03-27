@@ -24,3 +24,7 @@ While women often fall into anxiety and spiralling, men fall into laziness and a
 ## Build a Life together
 
 Have something you work together on, that you do in collaboration. Something you’re both excited to do, and want to achieve.
+
+## Closest Friend
+
+[[Anam Cara]]
