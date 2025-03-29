@@ -73,6 +73,8 @@ Most people
 - Don’t want to learn how things work
 - Don’t want to build _exactly_ what they imagine
 
+[[Engineer - know thy self!#The Scientist]]
+
 Is AI for those people?
 
 AI can be used by people who are interested in building their own services. The question is to what extent can you ignore the Lower level (never touch the command line, never read code, never write a config file). That will decide who AI is for.

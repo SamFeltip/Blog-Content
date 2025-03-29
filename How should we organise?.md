@@ -9,7 +9,7 @@ tags: [article]
 - Integrity, Etc
 - FaithTech Playbook
 
-How has SVSB incorporated FaithTech values?
+How has [[Sharrow Vale Website]] incorporated [[FaithTech]] values?
 
 Sometimes building something practical is more interesting than pondering super technical, hyper specific ideas.
 
@@ -19,14 +19,14 @@ Don’t assume you need anything to start. Act with what you have, and acquire w
 
 Use your tools to the point of exhaustion. You’ll learn more about your tools, become more sentimental, and maybe realise you didn’t need the latest thing in the first place.
 
-## Ship Early: Broadcast Everything
+## Ship Early and Be Transparent
 
 You will never make progress if no one sees your thing.
 
-Building things in public makes them better, because you will stop tinkering and focus on features for users.
+[[Work with the garage door open]] and you will   stop tinkering and focus on features for users.
 
 There are so many people working on and wanting to work on open source. No one will find your idea if you don’t broadcast it.
 
 ## Touch Grass (and touch paint!)
 
-Go out into the real world and meet people! Mentors and peers are how you become part of the process to create truly new things.
+Go out into the real world and meet people! Be a part if [[In person community]]. Mentors and peers are how you become part of the process to create truly new things.

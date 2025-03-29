@@ -4,22 +4,73 @@
     "type": "split",
     "children": [
       {
-        "id": "8ab2d6ac708794f3",
+        "id": "69d6505c7687bdc7",
         "type": "tabs",
         "children": [
           {
-            "id": "9f6e4a3f7dca8fb6",
+            "id": "e37314f3af160f68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "purity.md",
+                "file": "UNIX Philosophy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "purity"
+              "title": "UNIX Philosophy"
             }
+          },
+          {
+            "id": "eb8d59552b3dee0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Pragmatic Programmer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Pragmatic Programmer"
+            }
+          },
+          {
+            "id": "587f792a42250545",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas and the subjects of ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ideas and the subjects of ideas"
+            },
+            "group": "4c2950986ccbe4b0"
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "c7aa94b322d3fe3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4712bb2f5564bcff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas and the subjects of ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ideas and the subjects of ideas"
+            },
+            "group": "4c2950986ccbe4b0"
           }
         ]
       }
@@ -49,7 +100,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#AI",
+            "query": "",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -171,34 +222,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f6e4a3f7dca8fb6",
+  "active": "587f792a42250545",
   "lastOpenFiles": [
-    "AI for education.md",
-    "2025.md",
-    "git rebase is better than merge.md",
-    "Being Creative with AI.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Untitled.canvas",
-    "Be, become, do.md",
-    "March Weekend away.md",
-    "Build an in person community.md",
-    "Goals and Priorities.md",
-    "marriage.md",
-    "Sola Scriptura.md",
-    "Spiritual Formation.md",
-    "Remote Working.md",
-    "purity.md",
-    "Tailwind safelists and the quest for typesafe styles.md",
-    "the iPhone 16e marks a big step in iPhone history.md",
-    "Atomic Habits.md",
-    "Rule of Life.md",
-    "Positive Content.md",
+    "Ideas.md",
+    "Ideas and the subjects of ideas.md",
     "Publishing notes as a blog.md",
-    "Consent.md",
-    "Naming Things.md",
+    "Automate your rules.md",
+    "Technical excellence.md",
+    "Obey the compiler.md",
     "UNIX Philosophy.md",
-    "Meeting God in Pain and Suffering.md",
-    "How should we organise?.md"
+    "Goals and Priorities.md",
+    "In person community.md",
+    "How should we organise?.md",
+    "The unreasonable effectiveness of plain text.md",
+    "The Pragmatic Programmer.md",
+    "Composition over Inheritance.md",
+    "Assertions.md",
+    "What did types ever do for us?.md",
+    "git rebase is better than merge.md",
+    "Be progressive.md",
+    "git.md",
+    "Inheritance.md",
+    "Errors vs Exceptions.md",
+    "AI for education.md",
+    "2025 summer holiday second meeting.md",
+    "Build an in person community.md",
+    "Holidays.md",
+    "Junior Developers.md",
+    "Practicing the way.md",
+    "Untitled.canvas"
   ]
 }

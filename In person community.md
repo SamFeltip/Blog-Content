@@ -1,10 +1,8 @@
 ---
-tags: [goal]
+tags: [goals-and-priorities]
 ---
 
-# Build an in Person Community
-
-Part of [[Goals and Priorities]].
+# In Person Community
 
 How does  [[Remote Working]] fit into the rule of the village? (150 people)
 

@@ -2,7 +2,7 @@
 tags: [git]
 ---
 
-# Git Rebase is Better than Merge
+# [[Git]] Rebase is Better than Merge
 
 https://www.atlassian.com/git/tutorials/merging-vs-rebasing#:~:text=Merging%20is%20a%20safe%20option,onto%20the%20tip%20of%20main%20.
 

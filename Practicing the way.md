@@ -17,5 +17,6 @@ During [[Following Jesus]], talk about ways of prayer. Should prayer be ritualis
 
 ## Sabbath
 
-## Finding God in suffering
+## Finding God in Suffering
+
 [[Meeting God in Pain and Suffering]]

@@ -4,9 +4,7 @@ tags: [article, engineering]
 
 # UNIX Philosophy
 
-On the topic of [[How should we organise?]]
-
-Why use latex over word? Why use markdown over google sheets? Why use Astro over webflow?
+Why use [[LaTeX]] over word? Why use [[Markdown]] over google sheets? Why use Astro over webflow?
 
 ## Why Use Latex over Word?
 
@@ -29,15 +27,15 @@ Why use latex over word? Why use markdown over google sheets? Why use Astro over
 
 > LaTeX is about a lot more than just nice looking equations.
 >
-> For me one of the main appeals is that it's open source; I'm not reliant on any corporation who can change pricing schemes, document formats, or make UI new choices I have no control over at any moment. I can install it wherever I want, including servers and virtual machines without paying any additional cost or worrying about licensing.
+> For me one of the main appeals is that it's open source; I'm not reliant on any corporation who can change pricing schemes, document formats, or make [[UI]] new choices I have no control over at any moment. I can install it wherever I want, including servers and virtual machines without paying any additional cost or worrying about licensing.
 >
-> It's truly cross-platform: I can use it on Linux or FreeBSD and not just those OSes Microsoft preapproves.
+> It's truly cross-platform: I can use it on [[Linux]] or FreeBSD and not just those OSes Microsoft preapproves.
 >
-> Another main appeal is that it's a plain text based format and thus works easily with any software that can process plain text, including standard unix tools; it can be produced and manipulated and automated by any programming language, and I don't have to worry about my files ever becoming inaccessible.
+> Another main appeal is that it's a [[Plain text]] based format and thus works easily with any software that can process plain text, including standard [[Unix]] tools; it can be produced and manipulated and automated by any programming language, and I don't have to worry about my files ever becoming inaccessible.
 >
 > Its ecosystem follows the Unix philosophy; I can choose how it fits within my entire toolchain. I can use whatever text editor I want to produce my documents. I can view the output in any PDF viewer. I can use whatever I want for my bibliography management. My hands are not tied to using one company's stuff to get things to work well together. I can track revisions with whatever version control software I want: use git or anything else.
 
 ## The UNIX Philosophy
 
-- [Unix Philosophy](https://en.m.wikipedia.org/wiki/Unix_philosophy)
-- [Cognitive Engineering](https://en.m.wikipedia.org/wiki/Cognitive_engineering)
+- [Wikipedia: Unix Philosophy](https://en.m.wikipedia.org/wiki/Unix_philosophy)
+- [Wikipedia: Cognitive Engineering](https://en.m.wikipedia.org/wiki/Cognitive_engineering)
