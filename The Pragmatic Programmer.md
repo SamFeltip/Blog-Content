@@ -33,6 +33,6 @@ I like paper notes, I use them on Sundays. It’s good for rough, but I like bei
 
 I like the idea you should be strict on what you accept, and promise as little as possible.
 
-I think the things you promise should always be explicitly returned. Rather than creating [[side effects]], you should always respond with exactly what has changed.
+I think the things you promise should always be explicitly returned. Rather than creating [[side effects]], you should always respond with exactly what has changed [[REST API]] style.
 
 [[Design by Contract]] seems to be used over only using [[Assertions]] because it can be used alongside [[Inheritance]]. Since I prefer [[Composition over Inheritance]], I’m suspicious this is a benefit.

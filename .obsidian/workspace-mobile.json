@@ -27,31 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Pragmatic Programmer.md",
+                "file": "Pragmatic Presentations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Pragmatic Programmer"
+              "title": "Pragmatic Presentations"
             }
-          },
-          {
-            "id": "587f792a42250545",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas and the subjects of ideas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ideas and the subjects of ideas"
-            },
-            "group": "4c2950986ccbe4b0"
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "c7aa94b322d3fe3f",
@@ -69,8 +54,7 @@
               },
               "icon": "lucide-file",
               "title": "Ideas and the subjects of ideas"
-            },
-            "group": "4c2950986ccbe4b0"
+            }
           }
         ]
       }
@@ -100,8 +84,8 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
-            "matchingCase": true,
+            "query": "tag:subject",
+            "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -147,7 +131,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "401071c92c28a327",
@@ -222,10 +206,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "587f792a42250545",
+  "active": "eb8d59552b3dee0f",
   "lastOpenFiles": [
-    "Ideas.md",
     "Ideas and the subjects of ideas.md",
+    "Pragmatic Presentations.md",
+    "REST API.md",
+    "The Pragmatic Programmer.md",
+    "Ideas.md",
     "Publishing notes as a blog.md",
     "Automate your rules.md",
     "Technical excellence.md",
@@ -235,7 +222,6 @@
     "In person community.md",
     "How should we organise?.md",
     "The unreasonable effectiveness of plain text.md",
-    "The Pragmatic Programmer.md",
     "Composition over Inheritance.md",
     "Assertions.md",
     "What did types ever do for us?.md",
@@ -248,8 +234,6 @@
     "2025 summer holiday second meeting.md",
     "Build an in person community.md",
     "Holidays.md",
-    "Junior Developers.md",
-    "Practicing the way.md",
     "Untitled.canvas"
   ]
 }
